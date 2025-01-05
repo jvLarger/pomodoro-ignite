@@ -73,7 +73,6 @@ export function CyclesContextProvider({children} : CyclesContextProviderProps) {
     
         setAmountSecondsPassed(0);
     
-      //  reset();
       }
     
     function interruptCurrentCycle() {
